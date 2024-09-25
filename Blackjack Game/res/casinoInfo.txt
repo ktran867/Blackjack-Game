@@ -1,0 +1,8 @@
+Ali,75,10
+Khosro,1639,18
+Eli,1000,18
+kenny,1000,5
+Edwin,150,2
+jaden,0,4
+chantelle,500,2
+Bob,0,1
